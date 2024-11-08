@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my name is Francesco Giannelli, I'm a PhD student in biology in Ancona 👋
 
 <!--
 **giannef/giannef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
