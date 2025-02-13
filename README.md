@@ -1,5 +1,11 @@
-## Hi there my name is Francesco Giannelli, I'm a PhD student in biology in Ancona 👋
+## Hi there my name is Francesco Giannelli, I'm a PhD student at Università Politecnica delle Marche (Italy)
 
+I'm currently working on invasive species in the Mediterranean Sea using genomics approaches.
+I've worked particularly on forward simulations with SLiM - https://messerlab.org/slim/
+
+https://scholar.google.com/citations?user=JC9f9ZoAAAAJ&hl=it
+
+Contacts: francescog900@gmail.com
 <!--
 **giannef/giannef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
